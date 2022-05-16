@@ -1,3 +1,4 @@
+npm test JSVI.test.js
 /* eslint-disable no-undef */
 const {
 	mayuscula,
